@@ -8,7 +8,7 @@ import json
 import time
 
 
-GROQ_API_KEY = "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" 
+GROQ_API_KEY = "" 
 GROQ_MODEL = "mixtral-8x7b-32768"  
 
 #  Function to fetch top AI-related articles with retries
