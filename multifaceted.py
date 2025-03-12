@@ -8,7 +8,7 @@ import json
 # Load embedding model
 embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 
-groq_api_key = "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"
+groq_api_key = ""
 groq_model = "mixtral-8x7b-32768"
 
 # Sample document database (With categories and timestamps)
